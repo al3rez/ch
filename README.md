@@ -3,7 +3,7 @@
   <br>
   <br>
   <p>
-    <b>sh - Super fast Alfred 3+ workflow to search through Chrome history 🕵️‍♀️</b>
+    <b>ch - Super fast Alfred 3+ workflow to search through Chrome history 🕵️‍♀️</b>
   </p>
   <p>
       <i>Helps you to search through Chrome history faster, saving precious time</i>
