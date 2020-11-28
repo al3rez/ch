@@ -3,7 +3,7 @@
   <br>
   <br>
   <p>
-    <b>sh - Super fast Alfred 3+ workflow to search through Chrome history 🕵️‍♀️</b>
+    <b>ch - Super fast Alfred 3+ workflow to search through Chrome history 🕵️‍♀️</b>
   </p>
   <p>
       <i>Helps you to search through Chrome history faster, saving precious time</i>
@@ -38,5 +38,9 @@ You need to permit Alfred full disk access since copying Chrome history db file 
 Usage
 -----
 
-- `sh [<query>]` — Search and open recent history
+If you are signed into Chrome, you will need to change `/Chrome/Default/`, to
+`/Chrome/Profile\ 1/`, (take a look inside `~/Library/Application\
+Support/Google/Chrome` to find your Profile number.
+
+- `ch [<query>]` — Search and open recent history
 
